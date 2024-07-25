@@ -1,3 +1,3 @@
 # Guess-the-number
-Developed a number guessing game using random number generation, loops, and conditional statements.
-Implemented game logic to track and display player attempts, demonstrating the proficiency.
+Designed a number guessing game, focusing on random number generation and user input handling.
+Implemented the game logic to track and display the number of attempts needed for a correct guess.
